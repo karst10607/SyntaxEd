@@ -1,7 +1,7 @@
 # Resume of a Technical Writer Howard Wu
 
-兩百字內的個人簡介。
-# 自己紹介 Self Introduction
+
+## 自己紹介 Self Introduction
 
 我是一個technical writer，負責幫工程師撰寫內部的知識庫和對外的產品文件說明。
 雖然寫過很多種類型的產業和文件，但最擅長的還是軟體開發相關並使用Confluence去搭配任何開單系統追蹤變動。
@@ -34,8 +34,5 @@
 
 
 ### 其他想要對我們說的事情？
+謝謝彭彭的wehelp，有這樣的人們和社群真的是福氣和佛心。我懂這種想回饋和拉有緣人一把的感覺，我在剛開始做technical writer的時候也是跌跌撞撞，有了一點運氣和幫助才開始有了成果，也希望能用自己的分享技術為台灣培養下一代的technical writer。希望你們能繼續下去並做得越來越好。
 
-
-A syntax dial app to measure the processing time of Mad-Lib style game, quantifying one's ability and improvement in certain natural language syntax [it's for my thesis, I study TESOL]
-
-_test see_
